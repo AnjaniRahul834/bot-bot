@@ -1,0 +1,11 @@
+fuzzywuzzy
+gradio
+pandas
+numpy
+faiss-cpu
+sentence-transformers
+transformers
+langchain-community
+torch
+openpyxl
+openai
